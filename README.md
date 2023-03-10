@@ -1,5 +1,5 @@
  👋 Hi, I’m Zoe
-- 🎓 I’m a Ph.D. Candidate in Computer Science at the University of North Carolina at Charlotte
+- 🎓 I’m a Ph.D. in Computer Science from the University of North Carolina at Charlotte
 - 💻 My research interests include recommender systems, action rule mining, business analytics, data mining, natural language processing, and machine learning. More specifically, I designed and implemented recommender systems that can provide actionable recommendations to improve customer churn rate based on action rule discovery, aspect-based sentiment analysis, and rough set theory. 
 <!-- - 🎨 I like painting -->
 <!-- - 📫 How to reach me ... -->
